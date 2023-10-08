@@ -1,0 +1,1 @@
+# Legion-Y700-2023--GSI-FIX
