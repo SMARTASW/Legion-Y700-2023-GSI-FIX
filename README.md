@@ -1,6 +1,7 @@
 # Legion-Y700-2023-GSI-FIX
 
-Lenovo Legion Y700(2023/SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。（Android 13で動作確認済み）<br>
+Lenovo Legion Y700(2023/SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。（Android 13/14で動作確認済み）<br>
+
 ※Legion Y700(2022/SD870)では使用できません。
 
 以下の機能を備えています。<br>
